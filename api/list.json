@@ -1,0 +1,26 @@
+
+[{
+  "id": 1,
+  "type": "ADD"
+}, {
+  "id": 1,
+  "type": "CHANGE"
+}, {
+  "id": 2,
+  "type": "ADD"
+}, {
+  "id": 3,
+  "type": "ADD"
+}, {
+  "id": 3,
+  "type": "CHANGE"
+}, {
+  "id": 2,
+  "type": "REMOVE"
+}, {
+  "id": 3,
+  "type": "CHANGE"
+}, {
+  "id": 1,
+  "type": "REMOVE"
+}]
